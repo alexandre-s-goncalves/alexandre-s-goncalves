@@ -1,4 +1,5 @@
-## Hi there 👋
+### Bonjour <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, je suis Alexandre. Bienvenue dans mon portfolio.
+
 
 <!--
 **alexandre-s-goncalves/alexandre-s-goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
